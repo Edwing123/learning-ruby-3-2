@@ -70,5 +70,6 @@ usd_symbol = currency_symbols["USD"]
 hash_with_default = Hash.new("Default value")
 puts hash_with_default[:do_not_exist]
 
-# Hashes and arrays offer a lot of convient methods.
+# Hashes and arrays offer a lot of convenient methods.
 # So I'll learn about those along the way.
+
