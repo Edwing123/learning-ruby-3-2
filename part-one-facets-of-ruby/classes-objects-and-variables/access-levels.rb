@@ -58,4 +58,3 @@ class AccessControl
     greet("Ruth")
   end
 end
-
