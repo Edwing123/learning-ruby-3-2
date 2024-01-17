@@ -2,5 +2,6 @@
     "editor.formatOnSave": true,
     "[ruby]": {
         "editor.defaultFormatter": "Shopify.ruby-lsp",
-    }
+    },
+	"jdk.runConfig.vmOptions": "--enable-preview"
 }
