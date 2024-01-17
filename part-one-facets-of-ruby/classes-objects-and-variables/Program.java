@@ -23,9 +23,6 @@ class Book {
 
     @Override
     public String toString() {
-        return 
-
-
-    "ISBN: \{this.isbn}, Price: \{this.price}.";
-        }
+        return STR."ISBN: \{this.isbn}, Price: \{this.price}.";
     }
+}
