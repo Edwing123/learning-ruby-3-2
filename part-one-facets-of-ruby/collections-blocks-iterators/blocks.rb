@@ -153,5 +153,3 @@ end
 
 # Not good!
 puts total
-
-
